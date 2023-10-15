@@ -8,13 +8,17 @@ Welcome to my GitHub! My name is Lorena Escribano Huesca, a mathematics enthusia
 
 * *Bachelor's Degree in Mathematics* - I devoted my Bachelor thesis to one of the most intriguing areas of mathematics: Borwein integrals. My journey through these complex and elegant formulations was nothing short of enlightening.
 
-* *International Stay in Italy* :it: - I pursued my studies for a year in Italy, where I delved deeper into my academic knowledge while soaking in a rich and vibrant culture. This time bolstered my language skills and adaptability.
+* *International Stay in Italy* 🇮🇹 - I pursued my studies for a year in Italy, where I delved deeper into my academic knowledge while soaking in a rich and vibrant culture. This time bolstered my language skills and adaptability.
 
-*  *Languages * :earth_africa: - Spanish is my mother tongue :es:, and I'm fluent in English, holding an advanced level CertAcles diploma officially recognized by CRUE (Conference of Spanish University Rectors) :uk:
+*  *Languages* :earth_africa:
 
-- I'm also proficient in French, boasting an advanced-level diploma from the Alliance Française. Parlez-vous français? Oui! :fr:
+    * Spanish is my mother tongue :es:
+    
+    * I'm fluent in English, holding an advanced level CertAcles diploma officially recognized by CRUE (Conference of Spanish University Rectors) 🇬🇧
 
-- Thanks to a year spent in Italy, I've embraced the Italian language, and I'm confident in my Italian skills as well :it:
+    * I'm also proficient in French, boasting an advanced-level diploma from the Alliance Française. Parlez-vous français? Oui! 🇫🇷
+  
+    * Thanks to a year spent in Italy, I've embraced the Italian language, and I'm confident in my Italian skills as well 🇮🇹
 
 ## Work Experience :briefcase:
 
